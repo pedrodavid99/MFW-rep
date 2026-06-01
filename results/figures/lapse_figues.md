@@ -10,16 +10,20 @@ Interactive Plotly figures are provided as `.html` files. GitHub may not render 
 <img width="2176" height="684" alt="image" src="https://github.com/user-attachments/assets/a2f3645a-3e88-47e8-8774-d7e10b402f21" />
 Logistic regression metrics 
 
-lapse_calibration_curve_lgbm.html
 
-### Calibration Curve — LightGBM
+
+### Calibration Curve — lr
 
 Interactive Plotly figure:
 
+[lapse_calibration_curve_lr.html](lapse_calibration_curve_lr.html)
 
 
+### Calibration Curves uncalalibrated vs calibrated LOGISTIC REGRESSION
+[calibration_curve_calvsuncal_lr.html](calibration_curve_calvsuncal_lr.html)
 
 GitHub may not preview this file because of its size. To view the interactive figure, download the `.html` file and open it in a web browser.
 
 
-######
+## DECISION TREE
+<img width="2176" height="684" alt="image" src="https://github.com/user-attachments/assets/a54666de-85ae-4fae-96df-8d3772184e79" />
