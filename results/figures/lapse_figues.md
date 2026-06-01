@@ -15,7 +15,11 @@ Interactive Plotly figures are available when indicated below. These files allow
 ### Model Evaluation Metrics
 
 <img width="2176" height="684" alt="Logistic Regression model evaluation metrics" src="https://github.com/user-attachments/assets/a2f3645a-3e88-47e8-8774-d7e10b402f21" />
-
+<img width="2176" height="684" alt="Decision Tree model evaluation metrics" src="https://github.com/user-attachments/assets/a54666de-85ae-4fae-96df-8d3772184e79" />
+<img width="2176" height="684" alt="Random Forest model evaluation metrics" src="https://github.com/user-attachments/assets/aee8881e-2ede-4863-ab46-bbdd5fdab6de" />
+<img width="2176" height="684" alt="XGBoost model evaluation metrics" src="https://github.com/user-attachments/assets/0191c6e3-8d7f-4e16-a50e-91056aeb297f" />
+<img width="2176" height="684" alt="LightGBM model evaluation metrics" src="https://github.com/user-attachments/assets/b427b315-6824-4483-8514-243da35a967c" />
+<img width="2176" height="684" alt="MLP model evaluation metrics" src="https://github.com/user-attachments/assets/1a764b3a-af2a-4caa-90bc-443e8fd94f01" />
 Figure: Logistic Regression model evaluation metrics.
 
 ### Performance Metrics by Classification Threshold
