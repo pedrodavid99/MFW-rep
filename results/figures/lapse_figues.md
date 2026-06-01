@@ -27,3 +27,27 @@ GitHub may not preview this file because of its size. To view the interactive fi
 
 ## DECISION TREE
 <img width="2176" height="684" alt="image" src="https://github.com/user-attachments/assets/a54666de-85ae-4fae-96df-8d3772184e79" />
+DT metrics 
+
+
+
+
+
+
+
+
+
+## RANDOM FOREST
+<img width="2176" height="684" alt="image" src="https://github.com/user-attachments/assets/aee8881e-2ede-4863-ab46-bbdd5fdab6de" />
+RF metrics 
+
+
+## XGBOOST
+<img width="2176" height="684" alt="image" src="https://github.com/user-attachments/assets/0191c6e3-8d7f-4e16-a50e-91056aeb297f" />
+XGBOOST metrics
+
+
+
+## LIGHTGBM
+<img width="2176" height="684" alt="image" src="https://github.com/user-attachments/assets/b427b315-6824-4483-8514-243da35a967c" />
+LIGHTGBM results
