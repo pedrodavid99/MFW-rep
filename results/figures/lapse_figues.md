@@ -1,0 +1,13 @@
+# Lapse Prediction Figures
+
+This file summarizes the supplementary figures produced for the lapse prediction analysis.
+
+## Interactive Figures
+
+Interactive Plotly figures are provided as `.html` files. GitHub may not render these files directly in the browser. If this happens, download the `.html` file and open it locally in a web browser.
+
+## LOGISTIC REGRESSION 
+<img width="2176" height="684" alt="image" src="https://github.com/user-attachments/assets/a2f3645a-3e88-47e8-8774-d7e10b402f21" />
+Logistic regression metrics 
+
+
