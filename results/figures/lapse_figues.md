@@ -16,6 +16,10 @@ lapse_calibration_curve_lgbm.html
 
 Interactive Plotly figure:
 
-[lapse_calibration_curve_lgbm.html](lapse_calibration_curve_lgbm.html)
 
-To view the interactive figure, download the `.html` file and open it in a web browser.
+
+
+GitHub may not preview this file because of its size. To view the interactive figure, download the `.html` file and open it in a web browser.
+
+
+######
